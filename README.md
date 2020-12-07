@@ -2,6 +2,8 @@
 
 I'm Marta Mullor a **Creative Software Engineer** based in Barcelona and currently working at Vonzu Tech 👩🏻‍💻.
 
+You wanna know more about me? Here you have few facts about myself.
+
 ![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
 <!--
 **martamullor/martamullor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
