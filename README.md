@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-https://img.shields.io/github/followers/martamullor?label=Follow&style=social
+![](https://img.shields.io/github/followers/martamullor?label=Follow&style=social)
 
 <!--
 **martamullor/martamullor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
