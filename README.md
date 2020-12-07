@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Marta Mullor a **creative Software Engineer 👩🏻‍💻** based in Barcelona and currently working at Vonzu Tech.
+I'm Marta Mullor a **Creative Software Engineer 👩🏻‍💻** based in Barcelona and currently working at Vonzu Tech.
 
 ![](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)
 <!--
