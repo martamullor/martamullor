@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi everyone 👋
 
 I'm Marta Mullor a **Creative Software Engineer** based in Barcelona and currently working at Vonzu Tech 👩🏻‍💻.
 
