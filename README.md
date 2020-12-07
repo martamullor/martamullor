@@ -3,7 +3,8 @@
 I'm Marta Mullor a **Creative Software Engineer** based in Barcelona and currently working at Vonzu Tech 👩🏻‍💻
 
 ![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)
-<!--
+[![Twitter Follow](https://img.shields.io/twitter/follow/maktub82.svg?style=social&label=Follow)](https://twitter.com/maktub82)
+((<!--
 **martamullor/martamullor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
