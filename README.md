@@ -1,6 +1,6 @@
 ## Hi everyone 👋🏻
 
-I'm Marta Mullor a **Software Engineer** based in Barcelona and currently working at [Holaluz](https://www.holaluz.com/)  👩🏻‍💻
+I'm Marta Mullor a **Software Engineer and Digital Designer** based in Barcelona and currently working at [Holaluz](https://www.holaluz.com/)  👩🏻‍💻
 
 🪐 You can find all my projects and more about who I am [HERE](http://www.martamullor.com/) 
 
