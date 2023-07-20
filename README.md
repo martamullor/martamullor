@@ -2,7 +2,7 @@
 
 I'm Marta Mullor a **Software Engineer & Digital Designer** based in Barcelona and currently working at [Holaluz](https://www.holaluz.com/)  👩🏻‍💻
 
-👩🏻‍💻 You can find all my projects and more about who I am [HERE](http://www.martamullor.com/) 
+👩🏻‍💻 You can find all my projects and more about who I am <a href="http://www.martamullor.com/" target="_blank">HERE</a>
 
 [![](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/martamullor/)
 [![](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:marta.mullor.polo@gmail.com)
