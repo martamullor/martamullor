@@ -1,6 +1,6 @@
 ## Hi! 👋🏻
 
-I'm Marta Mullor a **Software Engineer & Digital Designer** based in Barcelona and currently working at [Holaluz](https://www.holaluz.com/)  👩🏻‍💻
+I'm Marta Mullor a **Software Engineer & Digital Designer** based in Barcelona and currently working at [ILovePDF](https://www.ilovepdf.com/es)  👩🏻‍💻
 
 👩🏻‍💻 You can find all my projects and more about who I am <a href="http://www.martamullor.com/" target="_blank">HERE</a>
 
